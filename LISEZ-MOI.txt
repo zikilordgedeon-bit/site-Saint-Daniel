@@ -1,0 +1,9 @@
+SITE SAINT DANIEL - PREMIERE VERSION
+
+Dossiers :
+images = logos et photos
+documents = fichiers PDF et autres documents
+videos = vidéos de l'école
+
+Pour ouvrir le site :
+double-cliquez sur index.html
